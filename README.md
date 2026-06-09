@@ -28,6 +28,12 @@ My personal Hyprland configuration backup — built on **CachyOS** (Arch-based) 
 ├── kitty/          # Terminal emulator config  (or your terminal)
 ├── wallpapers/         # My wallpaper collection
 └── easyeffects/        # EasyEffects audio presets & config
+├── btop/               # System monitor config
+├── fastfetch/          # System info fetch config
+├── fish/               # Fish shell config
+├── mpv/                # Media player config
+├── micro/              # Text editor config
+└── brave-flags.conf    # Brave browser flags
 └── ...             # Other configs
 ```
 
