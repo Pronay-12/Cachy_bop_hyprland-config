@@ -26,6 +26,8 @@ My personal Hyprland configuration backup — built on **CachyOS** (Arch-based) 
 ├── waybar/         # Status bar config & styles
 ├── wofi/           # App launcher config
 ├── kitty/          # Terminal emulator config  (or your terminal)
+├── wallpapers/         # My wallpaper collection
+└── easyeffects/        # EasyEffects audio presets & config
 └── ...             # Other configs
 ```
 
