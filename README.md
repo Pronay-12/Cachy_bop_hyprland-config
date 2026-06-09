@@ -33,7 +33,6 @@ My personal Hyprland configuration backup — built on **CachyOS** (Arch-based) 
 ├── fish/               # Fish shell config
 ├── mpv/                # Media player config
 ├── micro/              # Text editor config
-└── brave-flags.conf    # Brave browser flags
 └── ...             # Other configs
 ```
 
